@@ -11,6 +11,10 @@ COPY site1.conf /etc/apache2/sites-available
 
 RUN a2enmod rewrite
 RUN a2ensite site1.conf
+RUN a2enmod ssl
+
+COPY certificate.pem /etc/ssl/certs
+COPY key.pem /etc/ssl
 
 EXPOSE 80
 EXPOSE 443

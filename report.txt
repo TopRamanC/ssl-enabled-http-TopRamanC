@@ -1,0 +1,15 @@
+	```
+    Name: Ramanpreet Chadha
+    Lab Name: ssl-enabled-http
+    Date Assigned: Nov 22, 2021
+    Date Completed: Nov 24, 2021
+    Status:  Completed <!-- select one -->
+    Outstanding Issues:
+    Ran into issues with openssl as I had no clue how to create a self signed certificate.	<!-- insert description -->
+    
+    Major Impediments:
+    More openssl information would have helped.	<!-- insert description -->
+
+    Feedback Comments:
+    Great lab that taught me a lot about SSL and openSSL. It made future labs easier that required SSL.    <!-- insert description --> 
+    ```
